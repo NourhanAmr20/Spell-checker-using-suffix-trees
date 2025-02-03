@@ -1,0 +1,6 @@
+﻿  SpellChecker project.cpp
+  SufixTree.cpp
+C:\Users\lenovo\source\repos\SpellChecker project\SpellChecker project\SufixTree.cpp(93,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lenovo\source\repos\SpellChecker project\SpellChecker project\SufixTree.cpp(290,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SpellChecker project.vcxproj -> C:\Users\lenovo\source\repos\SpellChecker project\x64\Debug\SpellChecker project.exe
